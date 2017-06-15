@@ -1,0 +1,24 @@
+.btn-info {
+	background-color: #380036;
+}
+
+.btn-info:hover {
+	background-color: #118AB2;
+}
+
+.btn-info:focus:active {
+	background-color: #BE97C6;
+}
+.btn-info:focus {
+	background-color: #BE97C6;
+}
+
+.computer-bg {
+	background-image: url('../images/purple-flowers.jpeg');
+	background-position: center;
+	background-size: cover;
+}
+
+.random-gif-container {
+	
+}

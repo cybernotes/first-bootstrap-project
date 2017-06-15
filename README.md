@@ -1,5 +1,3 @@
-# Bootstrap Template
+# First Bootstrap Project
 
-This is a template using Bootstrap 3, remember to change github repo with git remote set-url origin ________
-
-paste new link in for ___________
+Created a bootstrap framework page with jquery for random gifs
